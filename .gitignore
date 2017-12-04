@@ -20,6 +20,8 @@
 *.tar.gz
 *.rar
 
+*/target/
+
 # nodejs
 .DS_Store
 mhall-web-mobile/node_modules/
